@@ -1,14 +1,18 @@
 {
   "name": "nodejs_course",
   "version": "1.0.0",
-  "description": "NodeJS Course",
+  "description": "From zero to hero NodeJS Course",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"npx nodemon app.js"
   },
   "author": "AhmedAli",
   "license": "ISC",
   "dependencies": {
     "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
   }
 }
