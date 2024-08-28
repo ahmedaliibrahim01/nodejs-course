@@ -8,4 +8,8 @@
 //require('./2_express_js/routing.js');
 
 // html.js
-require('./2_express_js/4_html.js');
+//require('./2_express_js/4_html.js');
+
+// static_fles.js
+require('./2_express_js/5_static_fles.js');
+

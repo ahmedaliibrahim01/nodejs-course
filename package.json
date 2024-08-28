@@ -5,11 +5,12 @@
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"npx nodemon app.js"
+    "start": "npx nodemon app.js"
   },
   "author": "AhmedAli",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "express": "^4.19.2"
   },
   "devDependencies": {
