@@ -2,13 +2,13 @@
   "name": "nodejs_course",
   "version": "1.0.0",
   "description": "NodeJS Course",
-  "main": "2_express_js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ahmed Ali",
+  "author": "AhmedAli",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.19.2"w
+    "express": "^4.19.2"
   }
 }
