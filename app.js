@@ -11,5 +11,9 @@
 //require('./2_express_js/4_html.js');
 
 // static_fles.js
-require('./2_express_js/5_static_fles.js');
+//require('./2_express_js/5_static_fles.js');
+
+// static_fles.js
+require('./2_express_js/6_preparation_html_pages.js');
+
 

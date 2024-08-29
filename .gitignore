@@ -145,5 +145,6 @@ dist
 NOTE.md
 SUBJECTS.md
 test.js
+app.js
 
 # End of https://www.toptal.com/developers/gitignore/api/node

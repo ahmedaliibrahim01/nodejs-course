@@ -4,7 +4,7 @@ const app = express();
 
 const path = require("path");
 
-app.use("/libs", express.static(path.join(__dirname, "node_modules")));
+app.use("/libs", express.static(path.join(__dirname, "../node_modules")));
 app.use("/static", express.static(path.join(__dirname, "public")));
 
 app.use("/blogs/:blogid", function(req, res) {
